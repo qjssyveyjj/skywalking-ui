@@ -1,1 +1,1 @@
-FROM skywalking.docker.scarf.sh/apache/skywalking-ui:10.4.0
+FROM skywalking.docker.scarf.sh/apache/skywalking-ui:horizon-0.6.0
